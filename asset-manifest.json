@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-w23xg/static/css/main.0f59eccf.chunk.css",
-    "main.js": "https://.github.io/csb-w23xg/static/js/main.72874441.chunk.js",
-    "main.js.map": "https://.github.io/csb-w23xg/static/js/main.72874441.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-w23xg/static/js/runtime-main.fd046b12.js",
-    "runtime-main.js.map": "https://.github.io/csb-w23xg/static/js/runtime-main.fd046b12.js.map",
-    "static/js/2.daae80ea.chunk.js": "https://.github.io/csb-w23xg/static/js/2.daae80ea.chunk.js",
-    "static/js/2.daae80ea.chunk.js.map": "https://.github.io/csb-w23xg/static/js/2.daae80ea.chunk.js.map",
-    "index.html": "https://.github.io/csb-w23xg/index.html",
-    "static/css/main.0f59eccf.chunk.css.map": "https://.github.io/csb-w23xg/static/css/main.0f59eccf.chunk.css.map",
-    "static/js/2.daae80ea.chunk.js.LICENSE.txt": "https://.github.io/csb-w23xg/static/js/2.daae80ea.chunk.js.LICENSE.txt",
-    "static/media/CCbrain.aec3a0a6.png": "https://.github.io/csb-w23xg/static/media/CCbrain.aec3a0a6.png",
-    "static/media/CCbrain_annotated.608877e2.png": "https://.github.io/csb-w23xg/static/media/CCbrain_annotated.608877e2.png",
-    "static/media/bgofficev2.fac38987.png": "https://.github.io/csb-w23xg/static/media/bgofficev2.fac38987.png",
-    "static/media/cbody-removebg-preview.c6a5509f.png": "https://.github.io/csb-w23xg/static/media/cbody-removebg-preview.c6a5509f.png",
-    "static/media/ccomputer-removebg-preview.ebc9d269.png": "https://.github.io/csb-w23xg/static/media/ccomputer-removebg-preview.ebc9d269.png",
-    "static/media/cdiag-removebg-preview.9d6daab3.png": "https://.github.io/csb-w23xg/static/media/cdiag-removebg-preview.9d6daab3.png",
-    "static/media/cpostit-removebg-preview.8f67573f.png": "https://.github.io/csb-w23xg/static/media/cpostit-removebg-preview.8f67573f.png",
-    "static/media/paper.e9f98e85.jpg": "https://.github.io/csb-w23xg/static/media/paper.e9f98e85.jpg"
+    "main.css": "https://sannine78.github.io/csb-w23xg/static/css/main.0f59eccf.chunk.css",
+    "main.js": "https://sannine78.github.io/csb-w23xg/static/js/main.7dac189c.chunk.js",
+    "main.js.map": "https://sannine78.github.io/csb-w23xg/static/js/main.7dac189c.chunk.js.map",
+    "runtime-main.js": "https://sannine78.github.io/csb-w23xg/static/js/runtime-main.92871622.js",
+    "runtime-main.js.map": "https://sannine78.github.io/csb-w23xg/static/js/runtime-main.92871622.js.map",
+    "static/js/2.daae80ea.chunk.js": "https://sannine78.github.io/csb-w23xg/static/js/2.daae80ea.chunk.js",
+    "static/js/2.daae80ea.chunk.js.map": "https://sannine78.github.io/csb-w23xg/static/js/2.daae80ea.chunk.js.map",
+    "index.html": "https://sannine78.github.io/csb-w23xg/index.html",
+    "static/css/main.0f59eccf.chunk.css.map": "https://sannine78.github.io/csb-w23xg/static/css/main.0f59eccf.chunk.css.map",
+    "static/js/2.daae80ea.chunk.js.LICENSE.txt": "https://sannine78.github.io/csb-w23xg/static/js/2.daae80ea.chunk.js.LICENSE.txt",
+    "static/media/CCbrain.18d5528a.png": "https://sannine78.github.io/csb-w23xg/static/media/CCbrain.18d5528a.png",
+    "static/media/CCbrain_annotated.3594dc99.png": "https://sannine78.github.io/csb-w23xg/static/media/CCbrain_annotated.3594dc99.png",
+    "static/media/bgofficev2.3c01264a.png": "https://sannine78.github.io/csb-w23xg/static/media/bgofficev2.3c01264a.png",
+    "static/media/cbody-removebg-preview.d8040bac.png": "https://sannine78.github.io/csb-w23xg/static/media/cbody-removebg-preview.d8040bac.png",
+    "static/media/ccomputer-removebg-preview.6d49dc08.png": "https://sannine78.github.io/csb-w23xg/static/media/ccomputer-removebg-preview.6d49dc08.png",
+    "static/media/cdiag-removebg-preview.1bdae884.png": "https://sannine78.github.io/csb-w23xg/static/media/cdiag-removebg-preview.1bdae884.png",
+    "static/media/cpostit-removebg-preview.93365564.png": "https://sannine78.github.io/csb-w23xg/static/media/cpostit-removebg-preview.93365564.png",
+    "static/media/paper.0e0bbb83.jpg": "https://sannine78.github.io/csb-w23xg/static/media/paper.0e0bbb83.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd046b12.js",
+    "static/js/runtime-main.92871622.js",
     "static/js/2.daae80ea.chunk.js",
     "static/css/main.0f59eccf.chunk.css",
-    "static/js/main.72874441.chunk.js"
+    "static/js/main.7dac189c.chunk.js"
   ]
 }
