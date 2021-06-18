@@ -1,30 +1,31 @@
 {
   "files": {
-    "main.css": "https://sannine78.github.io/csb-w23xg/static/css/main.2349335f.chunk.css",
-    "main.js": "https://sannine78.github.io/csb-w23xg/static/js/main.6833f899.chunk.js",
-    "main.js.map": "https://sannine78.github.io/csb-w23xg/static/js/main.6833f899.chunk.js.map",
+    "main.css": "https://sannine78.github.io/csb-w23xg/static/css/main.2df73a79.chunk.css",
+    "main.js": "https://sannine78.github.io/csb-w23xg/static/js/main.2b27c3d5.chunk.js",
+    "main.js.map": "https://sannine78.github.io/csb-w23xg/static/js/main.2b27c3d5.chunk.js.map",
     "runtime-main.js": "https://sannine78.github.io/csb-w23xg/static/js/runtime-main.92871622.js",
     "runtime-main.js.map": "https://sannine78.github.io/csb-w23xg/static/js/runtime-main.92871622.js.map",
-    "static/js/2.70e99752.chunk.js": "https://sannine78.github.io/csb-w23xg/static/js/2.70e99752.chunk.js",
-    "static/js/2.70e99752.chunk.js.map": "https://sannine78.github.io/csb-w23xg/static/js/2.70e99752.chunk.js.map",
+    "static/js/2.afa346b0.chunk.js": "https://sannine78.github.io/csb-w23xg/static/js/2.afa346b0.chunk.js",
+    "static/js/2.afa346b0.chunk.js.map": "https://sannine78.github.io/csb-w23xg/static/js/2.afa346b0.chunk.js.map",
     "index.html": "https://sannine78.github.io/csb-w23xg/index.html",
-    "static/css/main.2349335f.chunk.css.map": "https://sannine78.github.io/csb-w23xg/static/css/main.2349335f.chunk.css.map",
-    "static/js/2.70e99752.chunk.js.LICENSE.txt": "https://sannine78.github.io/csb-w23xg/static/js/2.70e99752.chunk.js.LICENSE.txt",
-    "static/media/CCbrain.aec3a0a6.png": "https://sannine78.github.io/csb-w23xg/static/media/CCbrain.aec3a0a6.png",
-    "static/media/CCbrain_annotated.608877e2.png": "https://sannine78.github.io/csb-w23xg/static/media/CCbrain_annotated.608877e2.png",
-    "static/media/bgofficev2.fac38987.png": "https://sannine78.github.io/csb-w23xg/static/media/bgofficev2.fac38987.png",
+    "static/css/main.2df73a79.chunk.css.map": "https://sannine78.github.io/csb-w23xg/static/css/main.2df73a79.chunk.css.map",
+    "static/js/2.afa346b0.chunk.js.LICENSE.txt": "https://sannine78.github.io/csb-w23xg/static/js/2.afa346b0.chunk.js.LICENSE.txt",
+    "static/media/bgofficev3.9aa4ab8c.png": "https://sannine78.github.io/csb-w23xg/static/media/bgofficev3.9aa4ab8c.png",
     "static/media/cbody-removebg-preview.c6a5509f.png": "https://sannine78.github.io/csb-w23xg/static/media/cbody-removebg-preview.c6a5509f.png",
     "static/media/ccomputer-removebg-preview.ebc9d269.png": "https://sannine78.github.io/csb-w23xg/static/media/ccomputer-removebg-preview.ebc9d269.png",
-    "static/media/cdiag-removebg-preview.9d6daab3.png": "https://sannine78.github.io/csb-w23xg/static/media/cdiag-removebg-preview.9d6daab3.png",
+    "static/media/cdiag-removebg-preview.1bdae884.png": "https://sannine78.github.io/csb-w23xg/static/media/cdiag-removebg-preview.1bdae884.png",
     "static/media/cpostit-removebg-preview.8f67573f.png": "https://sannine78.github.io/csb-w23xg/static/media/cpostit-removebg-preview.8f67573f.png",
+    "static/media/ctbrainexampleannotated.a0428197.png": "https://sannine78.github.io/csb-w23xg/static/media/ctbrainexampleannotated.a0428197.png",
+    "static/media/ctbrainexamplenumbered.8bf26c43.png": "https://sannine78.github.io/csb-w23xg/static/media/ctbrainexamplenumbered.8bf26c43.png",
+    "static/media/greentick.5798a67d.png": "https://sannine78.github.io/csb-w23xg/static/media/greentick.5798a67d.png",
     "static/media/immunoblotTemp.9fc668a8.png": "https://sannine78.github.io/csb-w23xg/static/media/immunoblotTemp.9fc668a8.png",
     "static/media/instructions.527d413c.mp4": "https://sannine78.github.io/csb-w23xg/static/media/instructions.527d413c.mp4",
-    "static/media/paper.e9f98e85.jpg": "https://sannine78.github.io/csb-w23xg/static/media/paper.e9f98e85.jpg"
+    "static/media/redtick.0dcacb14.png": "https://sannine78.github.io/csb-w23xg/static/media/redtick.0dcacb14.png"
   },
   "entrypoints": [
     "static/js/runtime-main.92871622.js",
-    "static/js/2.70e99752.chunk.js",
-    "static/css/main.2349335f.chunk.css",
-    "static/js/main.6833f899.chunk.js"
+    "static/js/2.afa346b0.chunk.js",
+    "static/css/main.2df73a79.chunk.css",
+    "static/js/main.2b27c3d5.chunk.js"
   ]
 }
